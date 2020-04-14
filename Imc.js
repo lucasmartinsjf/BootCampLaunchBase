@@ -1,5 +1,5 @@
 // Desafio para medir massa IMC
-// Cadastrar OBjeto(pessoa) Nome, Idade , peso e Sexo
+// Cadastrar OBjeto(pessoa) Nome, Idade , peso e Sexo e altura
 const Pessoa1 = {
     nome: "Lucas",
     idade: 35,
